@@ -3,27 +3,31 @@
 Technologies: ASP.NET MVC 5, C, Web API, Entity Framework (Code First), LINQ, SQL
 Server 
 – Tools: Visual Studio 2022, SQL Server Management Studio, Postman
-1) Blank list with Create Button
+1) list with Create Button
 
- ![Screenshot 2023-11-05 141119](https://github.com/ABDULALI24/Netflix-OTT-Platform/assets/128752429/6d6e9b3e-dfaf-4339-a19e-5256ad5f2890)
+![image](https://github.com/ABDULALI24/Netflix-OTT-Platform/assets/128752429/8e667c28-8f62-45ff-ad6e-d88749e111c9)
+
 
 2) Creating Form
 
-![Screenshot 2023-11-05 141132](https://github.com/ABDULALI24/Netflix-OTT-Platform/assets/128752429/09babef7-ad85-4d2f-9014-285f411cb0d7)
+![image](https://github.com/ABDULALI24/Netflix-OTT-Platform/assets/128752429/969a6f91-82d0-4ecb-9ea7-c557f39e48e1)
+
 
 3) List after Adding one Customer Details
 
-![Screenshot 2023-11-05 141152](https://github.com/ABDULALI24/Netflix-OTT-Platform/assets/128752429/5c8fbda9-cd89-45f1-abaa-645dbea433a8)
+![image](https://github.com/ABDULALI24/Netflix-OTT-Platform/assets/128752429/5c44ab75-d8ae-4ba4-857e-2d3d42e8d4b3)
+
 
 4) Editing the Details
 
-![Screenshot 2023-11-05 141206](https://github.com/ABDULALI24/Netflix-OTT-Platform/assets/128752429/7aeba903-a9f8-4118-b226-c45847be2952)
+![image](https://github.com/ABDULALI24/Netflix-OTT-Platform/assets/128752429/0b514c6d-11ef-41e6-b2b7-e5d98819a8c3)
+
 
 5) Detail Preview of a Customer
 
-![Screenshot 2023-11-05 141216](https://github.com/ABDULALI24/Netflix-OTT-Platform/assets/128752429/1d057287-a1c2-4eb5-9fff-de191e11be47)
+![image](https://github.com/ABDULALI24/Netflix-OTT-Platform/assets/128752429/b1cf3814-963c-48be-ac22-acae62b368eb)
 
 6) Deleting a Customer (Warning Page)
 
-![Screenshot 2023-11-05 141227](https://github.com/ABDULALI24/Netflix-OTT-Platform/assets/128752429/9894856c-ce14-40bf-b50f-4f4b55a5033c)
+![image](https://github.com/ABDULALI24/Netflix-OTT-Platform/assets/128752429/3d55bf09-8c0c-431d-977f-2bf504ff7625)
 
