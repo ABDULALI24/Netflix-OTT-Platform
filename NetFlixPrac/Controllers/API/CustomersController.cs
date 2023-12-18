@@ -12,7 +12,7 @@ using AutoMapper;
 namespace NetFlixPrac.Controllers.API
 {
     public class CustomersController : ApiController
-    {
+    { 
         private readonly MyContext _context;
         public CustomersController(MyContext context)
         {
@@ -24,6 +24,8 @@ namespace NetFlixPrac.Controllers.API
             var list = _context.Customers.ToList();
             var listofCustomerdto = list.Select(Mapper.Map<CustomeDto>);
             return listofCustomerdto;
+           
+
         }
 
         public CustomeDto GetCustomer(int id) 
@@ -44,6 +46,7 @@ namespace NetFlixPrac.Controllers.API
             {
                 throw new HttpResponseException(HttpStatusCode.BadRequest);
             }
+
             var customer = Mapper.Map<CustomeDto,Customer>(customerdto);
 
             _context.Customers.Add(customer);

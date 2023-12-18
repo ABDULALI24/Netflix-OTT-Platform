@@ -23,8 +23,14 @@ namespace NetFlixPrac.Controllers
         
         public ActionResult List()
         {
-
+             
             return View(_Context.Customers.Include(c => c.MembershipType).Where(c => c.IsActive == true));
+
+           //var list = _Context.Customers.SqlQuery("BringAllCustomer").ToList();
+           // return View(list);
+
+            
+
         }
 
         public ActionResult Create() 
